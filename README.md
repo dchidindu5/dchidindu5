@@ -10,7 +10,7 @@ Software Developer and Technical Writer
 * 🌍  I'm based in Nigeria.
 * ✉️  You can contact me at [E-mail](mailto:dchidindu5@gmail.com)
 * 🧠  I'm a c++ developer (console and GUI applications)
-* ⚡   Currently learning QT and Tkinter
+* ⚡   Currently learning QT and Tkinter frameworks
 * 👯 I’m super excited about collaborating on Open Source Projects
 * 💬 Ask me anything on Web3, Consumers Electronic Show and Automobiles.
     
@@ -23,7 +23,7 @@ Software Developer and Technical Writer
 
 ### Social Handles
 
-<p align="left"> <a href="https://www.twitter.com/dennis____o" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.github.com/dchidindu5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://dinetech.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dennisonyeka4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+<p align="left"> <a href="https://www.twitter.com/dennis____o" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.github.com/dchidindu5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dennisonyeka4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://dinetech.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> </p>
   
 ![](https://komarev.com/ghpvc/?username=dchidindu5&color=grey&label=PROFILE+VIEWS)
 [![Github](https://img.shields.io/github/followers/dchidindu5?label=Follow&style=social)](https://github.com/dchidindu5)
