@@ -7,7 +7,7 @@ Software Developer and Technical Writer
 ---
 <p>
   
-* 🌍  I'm based in Nigeria.
+* 🌍  Founder of c++ <africa> community.
 * ✉️  You can contact me at [E-mail](mailto:dchidindu5@gmail.com)
 * 🧠  I'm a c++ developer (console and GUI applications)
 * ⚡   Currently learning QT and Tkinter frameworks
