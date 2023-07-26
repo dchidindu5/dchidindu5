@@ -1,6 +1,6 @@
 
 
-Hi 👋 I'm Dennis Onyeka
+Hi 👋 I'm Dennis O.
 ==========================
 
 Software Developer and Technical Writer
