@@ -10,7 +10,7 @@ Software Developer and Technical Writer
 * 🌍  Co-founder of c++ africa community.
 * ✉️  You can contact me at [E-mail](mailto:dchidindu5@gmail.com)
 * 🧠  I'm a c++ developer (console and GUI applications)
-* ⚡   Currently learning and building with QT and Tkinter frameworks
+* ⚡   Currently learning and building with QT and Tkinter(python) frameworks
 * 👯 I’m super excited about collaborating on Open Source Projects
 * 💬 Ask me anything on Web3, Consumers Electronic Show and Automobiles.
     
