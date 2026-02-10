@@ -1,6 +1,6 @@
 
 
-Hi 👋 I'm Dennis O.
+Hi 👋 I'm Dennis
 ==========================
 
 Software Developer
@@ -9,10 +9,10 @@ Software Developer
   
 * 🌍  Co-founder of c++ africa community.
 * ✉️  You can contact me at [E-mail](mailto:dchidindu5@gmail.com)
-* 🧠  I'm a c++ developer
-* 👯  A Networking and Security Researchers
+* 🧠  I'm a C++ developer by choice
+* 👯  A Networking and Security Researcher
 * ⚡  Currently learning and building with QT and Tkinter(python) frameworks
-* 👯 I’m super excited about collaborating on Open Source Projects
+* 👯  Super excited about collaborating with Open Source Projects
 * 💬 Ask me anything on Web3, Consumers Electronic Show and Automobiles.
     
 
